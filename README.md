@@ -1,7 +1,7 @@
-# Paranoid Android (a fork for realme GT master edition builds) #
+# Paranoid Android (a fork for vayu builds) #
 
 ```bash
-repo init --depth=1 -u https://github.com/aospa-lunaa/manifest -b topaz
+repo init --depth=1 -u https://github.com/deedwar/aospa_vayu -b main
 ```
 
 ```bash
